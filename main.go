@@ -1,4 +1,4 @@
-package main // import "github.com/Jimdo/vault-unseal"
+package main
 
 import (
 	"bytes"
