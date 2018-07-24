@@ -1,6 +1,9 @@
-# Jimdo / vault-unseal
+[![Go Report Card](https://goreportcard.com/badge/github.com/Luzifer/vault-unseal)](https://goreportcard.com/report/github.com/Luzifer/vault-unseal)
+![](https://badges.fyi/github/license/Luzifer/vault-unseal)
+![](https://badges.fyi/github/downloads/Luzifer/vault-unseal)
+![](https://badges.fyi/github/latest-release/Luzifer/vault-unseal)
 
-[![License: Apache v2.0](https://badge.luzifer.io/v1/badge?color=5d79b5&title=license&text=Apache+v2.0)](http://www.apache.org/licenses/LICENSE-2.0)
+# Luzifer / vault-unseal
 
 This small utility is a helper to automatically unlock a [Vault](https://www.vaultproject.io/) instance by having an amount of servers having access to one or multiple tokens.
 
