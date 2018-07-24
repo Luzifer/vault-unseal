@@ -1,3 +1,7 @@
+# 1.1.3 / 2018-07-24
+
+  * Fix checkout dir
+
 # 1.1.2 / 2018-07-24
 
   * Replace license stub with full text
