@@ -1,3 +1,10 @@
+# 1.1.2 / 2018-07-24
+
+  * Replace license stub with full text
+  * Adjust README badges
+  * Add auto-publishing to Github
+  * Remove import comment, migrate to dep for vendoring
+
 # 1.1.1 / 2016-10-11
 
   * Publish binaries to Github
